@@ -1,1 +1,2 @@
-# Сайт "RandomGames"
+# random-games-web
+Сайт RandomGames
